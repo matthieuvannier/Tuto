@@ -22,7 +22,11 @@ def moyenne(valeurs):
 
     ---
     """
-    print("!! TODO : Compléter la fonction moyenne !!", end=" ")
+    S=0
+    for valeur in valeurs:
+        S+=valeu
+    S=S/len(valeurs)
+    print(S, end=" ")
     pass
 
 
