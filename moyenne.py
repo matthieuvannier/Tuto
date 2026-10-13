@@ -24,7 +24,7 @@ def moyenne(valeurs):
     """
     S=0
     for valeur in valeurs:
-        S+=valeu
+        S+=valeur
     S=S/len(valeurs)
     print(S, end=" ")
     pass
